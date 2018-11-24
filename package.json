@@ -11,7 +11,8 @@
     "fs": "^0.0.2",
     "canvas": "^2.1.0",
     "dateformat": "^3.0.3",
-     "moment": "^2.22.2"
+     "moment": "^2.22.2"و
+    "ascii-data-table": "^2.1.1"
 
   }
 }
